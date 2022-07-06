@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffdodge
 - 👀 I’m interested in security, php, phone systems, and other crap
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning the TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire).
 - 💞️ I’m looking to collaborate on a cctv auditing platform
 - 📫 How to reach me jeff@jeffdodge.com or 401-286-0959
 
